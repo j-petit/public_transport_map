@@ -1,4 +1,3 @@
 # ML Lab
-This is the repository for the master practical course "Large-Scale Machine Learning" at TUM. Please refer to the wiki for more information.
+This is the code repo to the blog post https://robotsros.wordpress.com/2019/03/22/mining-public-transport-data/. Please find additional information in the blog or in the presentation pdf.
 
-https://wiki.tum.de/display/mllab/Project+5%3A+Mining+public+transport+data
